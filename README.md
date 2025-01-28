@@ -1,35 +1,58 @@
-# Secure-network-design
-Task 1: Secure Network Diagram 
-Objective:
-● Proficiency with visualizing the flow of network information
-● Understand the role of network devices and the role they play in a secure network
-● Demonstrating defense in depth
-Scenario:
-You work for a small or mid-sized company and recently assumed the role of Network Security
-Engineer. The company recognizes that it has deprioritized security in the past and understands
-that it should be part of the business and not an add-on. You are the first part of this change,
-thus the sole IT Security specialist. You have decided to first start with secure networking; but
-you need to understand the network before you can implement solutions. So, you’ve decided to
-map out the network and add components that you think would be beneficial to achieving
-security on the network. You’ll use this logical diagram to help build your proposal to procure
-equipment or recommend configuration changes, so put your best foot forward. Remember that
-your boss and/or other stakeholders may not be as technically savvy as you, so how you relay
-information to them is important.
-Deliverable:
-A secure network diagram. Your diagram should detail network devices, information flow, and
-secure configurations (i.e. if your on-premise network allows users to remote in via a virtual
-private network, notate any secure configurations that you’ve implemented, such as remote
-connections only allowed via multi-factor authentication). You can include security configurations
-on the diagram itself, or in a separate document.
+# Secure Network Design
 
-Task 2: Recent Security Event Article 
-Article should be short, concise, thoughtful, and well-written. Imagine a broad audience (a general
-technical audience). Your goal should be to write an article to help this audience learn about and
-understand the computer security field and how it fits into the broader context.
-Your article should: (1) summarize the recent security event; (2) discuss why the current event
-arose; (3) reflect on what could have been done different prior to the event arising (to perhaps
-prevent, deter, or change the consequences of the event ); (4) describe the broader issues
-surrounding the event (e.g., ethical issues, societal issues); (5) propose potential responses to
-contain the event by different actors (e.g., public, policymakers, corporations or media).
-Note - There is no minimum/maximum word limit. The article should cover above mentioned
-points.
+This project consists of two tasks that focus on network security. The first task is about designing a secure network diagram that represents a secure network environment, while the second task involves writing a concise article about a recent security event. Both tasks aim to improve your understanding of network security, help you visualize security implementations, and enhance your communication skills for a broad audience.
+
+---
+
+## Task 1: Secure Network Diagram
+
+### Objective:
+- Gain proficiency in visualizing the flow of network information.
+- Understand the role of network devices and their contributions to securing the network.
+- Demonstrate defense-in-depth techniques.
+
+### Scenario:
+As a Network Security Engineer at a small or mid-sized company, you have been tasked with improving the company’s network security. The company has acknowledged that security was previously deprioritized, and now it is your responsibility to implement solutions that will protect the company's network. To start, you need to understand the network and design a secure network that will help achieve the desired security posture.
+
+### Deliverable:
+a **secure network diagram** that includes the following:
+
+- **Network Devices**: Include all the devices used in the network (e.g., routers, firewalls, switches, access points, etc.).
+- **Information Flow**: Illustrate how data moves through the network, ensuring you highlight secure paths and secure configurations.
+- **Security Configurations**: Notate any secure configurations you've implemented, such as:
+  - Multi-factor authentication (MFA) for remote access.
+  - VPNs for secure remote connections.
+  - Firewalls for controlling traffic.
+  - Intrusion Detection Systems (IDS) for monitoring network activity.
+  - Segmentation of the network to separate sensitive data.
+  - Any other security technologies or best practices.
+
+### Key Points to Consider:
+- **Defense-in-depth**: Diagram demonstrates multiple layers of security, where each layer adds an additional barrier against potential attacks.
+
+### Tools:
+- You can use any diagramming tool (e.g., Microsoft Visio, Lucidchart, draw.io) to create your secure network diagram.
+
+---
+
+## Task 2: Recent Security Event Article
+
+### Objective:
+- A short, concise, and thoughtful article on a recent security event.
+- Communicating the significance of the event to a general technical audience.
+
+
+### Key Points Addressed:
+1. **Summary of the Security Event**: Provided a clear and concise summary of the event, including the nature of the breach or attack.
+2. **Root Cause**: Discussed the underlying factors that led to the security event. This could include technical vulnerabilities, human error, or organizational shortcomings.
+3. **Preventative Measures**: Reflected on what could have been done differently to prevent the event. Consider early detection, better security practices, or more robust systems.
+4. **Broader Issues**: Explored the ethical and societal implications of the event. For example, how did it affect users, and what are the consequences for privacy and trust?
+5. **Potential Responses**: Proposed actions that could help mitigate the event, such as policy changes, corporate responsibility, or public awareness campaigns.
+
+
+## Deliverables:
+
+1. **Secure Network Diagram**: A diagram that visualizes the network, its devices, and secure configurations.
+2. **Recent Security Event Article**: A well-written article that discusses a recent security event, its causes, and potential responses.
+
+---
